@@ -1,3 +1,9 @@
+![alt text](https://github.com/Gauravlamba1109/HackerNews/blob/main/hn1.png?raw=true)
+![alt text](https://github.com/Gauravlamba1109/HackerNews/blob/main/hn2.png?raw=true)
+![alt text](https://github.com/Gauravlamba1109/HackerNews/blob/main/hn3.png?raw=true)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
